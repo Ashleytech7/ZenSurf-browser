@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "release_date": "2024-03-20",
+    "download_url": "https://github.com/yourusername/zensurf/releases/latest",
+    "changelog": [
+        "Initial release",
+        "Basic browser functionality",
+        "Tab support"
+    ]
+} 
